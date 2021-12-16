@@ -10,7 +10,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 """"""""""""""""""""""""""""""
-Utilitarios
+"Utilitarios
 """"""""""""""""""""""""""""""
 "Serve para conseguir navegar pelos diretórios com o VIM
 Plugin 'scrooloose/nerdtree'
