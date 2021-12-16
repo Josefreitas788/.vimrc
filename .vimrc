@@ -12,10 +12,11 @@ Plugin 'VundleVim/Vundle.vim'
 """"""""""""""""""""""""""""""
 "Utilitarios
 """"""""""""""""""""""""""""""
+
 "Serve para conseguir navegar pelos diretórios com o VIM
 Plugin 'scrooloose/nerdtree'
 
-""Lean & mean status/tabline for vim that's light as air.
+""Customiza a barra de status e borda, fica bonitão.
 Plugin 'vim-airline/vim-airline'
 
 
@@ -35,6 +36,7 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 " Install L9 and avoid a Naming conflict if you've already installed a
 " different version somewhere else.
 " Plugin 'ascenator/L9', {'name': 'newL9'}
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -49,4 +51,3 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
-
