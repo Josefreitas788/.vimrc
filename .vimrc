@@ -1,7 +1,10 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
+"Faz os números das linhas aparecerem
 set number
+"possibilita interagir com o mouse no texto
 set mouse=a
+"adiciona as cores na syntax
 syntax on
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
