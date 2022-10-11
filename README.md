@@ -3,6 +3,7 @@
 Para instalar os plugins siga os seguintes passos:
 
 1 - mova o arquivo .vimrc para o $HOME
+
     `$ mv .vimrc ~/`
 
 2 - `$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
