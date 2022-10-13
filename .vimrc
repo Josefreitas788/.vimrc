@@ -30,7 +30,7 @@ Plugin 'tpope/vim-surround'
 
 "AutoComplete
 Plugin 'zxqfl/tabnine-vim'
-Plugin 'valloric/youcompleteme'
+"Plugin 'valloric/youcompleteme'
 
 "O nome fala por si só, é um auto pair
 Plugin 'krasjet/auto.pairs'
