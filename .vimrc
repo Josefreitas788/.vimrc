@@ -4,6 +4,8 @@ filetype off                  " required
 set number
 "possibilita interagir com o mouse no texto
 set mouse=a
+"Configuração do tab"
+set tabstop=2
 "adiciona as cores na syntax
 syntax on
 " set the runtime path to include Vundle and initialize
